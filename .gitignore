@@ -1,0 +1,4 @@
+.env
+resume_env/
+.vscode/
+__pycache__/
